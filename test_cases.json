@@ -1,0 +1,52 @@
+﻿[
+  {
+    "id": 1,
+    "tags": ["Love"],
+    "story": "They hated each other from the first meeting, constantly clashing at work, until a long night spent fixing a crisis forced them to see each other differently."
+  },
+  {
+    "id": 2,
+    "tags": ["Romance"],
+    "story": "After meeting again years after their breakup, they are forced to confront unresolved feelings and the life they almost had together."
+  },
+  {
+    "id": 3,
+    "tags": ["Scary"],
+    "story": "The narrator begins hearing a voice in his head, but the story remains abstract and never clearly reveals whether the threat is real or imagined."
+  },
+  {
+    "id": 4,
+    "tags": ["Thriller"],
+    "story": "A covert agent navigates foreign cities, encrypted messages, and double agents while attempting to prevent a classified intelligence leak."
+  },
+  {
+    "id": 5,
+    "tags": ["Action"],
+    "story": "Standing in a packed courtroom, the lawyer realizes that one wrong question during the cross-examination could change the fate of thousands."
+  },
+  {
+    "id": 6,
+    "tags": ["Horror"],
+    "story": "Teenagers are hunted one by one by a masked figure during a secluded weekend getaway, with bloodshed escalating as night falls."
+  },
+  {
+    "id": 7,
+    "tags": ["Sci-Fi"],
+    "story": "The novel explores faster-than-light travel through detailed discussions of physics, causality, and the limits of known scientific laws."
+  },
+  {
+    "id": 8,
+    "tags": ["Future"],
+    "story": "In a neon-lit megacity dominated by corporations and artificial intelligence, a hacker uncovers a conspiracy hidden in the city’s code."
+  },
+  {
+    "id": 9,
+    "tags": ["Drama"],
+    "story": "The story follows a person reflecting on childhood memories and everyday struggles without a clear genre-defining conflict."
+  },
+  {
+    "id": 10,
+    "tags": ["Dark"],
+    "story": "A decaying ancestral mansion, long-buried family secrets, and an oppressive atmosphere haunt the protagonist throughout the narrative."
+  }
+]

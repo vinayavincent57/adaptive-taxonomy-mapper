@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "predicted_genre": "Enemies-to-Lovers",
+    "reasoning": "Story context strongly indicates 'Enemies-to-Lovers', overriding generic or noisy user tags."
+  },
+  {
+    "id": 2,
+    "predicted_genre": "UNMAPPED",
+    "reasoning": "The story lacks sufficiently specific narrative cues to confidently map it to any defined taxonomy sub-genre."
+  },
+  {
+    "id": 3,
+    "predicted_genre": "UNMAPPED",
+    "reasoning": "The story lacks sufficiently specific narrative cues to confidently map it to any defined taxonomy sub-genre."
+  },
+  {
+    "id": 4,
+    "predicted_genre": "Espionage",
+    "reasoning": "Story context strongly indicates 'Espionage', overriding generic or noisy user tags."
+  },
+  {
+    "id": 5,
+    "predicted_genre": "Legal Thriller",
+    "reasoning": "Story context strongly indicates 'Legal Thriller', overriding generic or noisy user tags."
+  },
+  {
+    "id": 6,
+    "predicted_genre": "Slasher",
+    "reasoning": "Story context strongly indicates 'Slasher', overriding generic or noisy user tags."
+  },
+  {
+    "id": 7,
+    "predicted_genre": "Hard Sci-Fi",
+    "reasoning": "Story context strongly indicates 'Hard Sci-Fi', overriding generic or noisy user tags."
+  },
+  {
+    "id": 8,
+    "predicted_genre": "Cyberpunk",
+    "reasoning": "Story context strongly indicates 'Cyberpunk', overriding generic or noisy user tags."
+  },
+  {
+    "id": 9,
+    "predicted_genre": "UNMAPPED",
+    "reasoning": "The story lacks sufficiently specific narrative cues to confidently map it to any defined taxonomy sub-genre."
+  },
+  {
+    "id": 10,
+    "predicted_genre": "Gothic",
+    "reasoning": "Story context strongly indicates 'Gothic', overriding generic or noisy user tags."
+  }
+]
