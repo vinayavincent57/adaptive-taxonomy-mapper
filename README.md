@@ -70,7 +70,8 @@ Reproducibility: Deterministic rules, consistent results
 
 Handling UNMAPPED Cases
 
-UNMAPPED is a deliberate design choice used when story context does not provide sufficiently strong or unambiguous signals to confidently assign a taxonomy-defined sub-genre. This prevents forced categorization and preserves taxonomy integrity.
+UNMAPPED is a deliberate design choice used when story context does not provide sufficiently strong or unambiguous signals to confidently assign a taxonomy-defined sub-genre. This prevents forced classification, reduces misclassification risk, and preserves taxonomy integrity.
+
 
 Documentation
 
@@ -86,6 +87,7 @@ This project demonstrates a responsible and transparent approach to genre infere
 
 
 ---
+
 
 
 
